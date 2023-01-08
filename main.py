@@ -7,4 +7,4 @@ def setList():
     return ilist
 
 def getMax(ilist):
-    print('Max element: ' , max(ilist))
+    print('Min element: ' , min(ilist))
