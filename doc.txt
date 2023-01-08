@@ -1,0 +1,5 @@
+Method name: getMax
+How does it works?
+Method works only with arrays
+Input array -> Get max element
+Profit!
